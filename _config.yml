@@ -3,13 +3,13 @@ title: 766's Blog
 email: system.io.rep@gmail.com
 SEOTitle: 766的博客 | 766's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  I guess it comes down to a simple choice: get busy living or get busy dying
+  I guess it comes down to a simple choice:\get busy living or get busy dying
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://766.js.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
-Sidebar filter
+# Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 recent_num: 20
@@ -17,7 +17,7 @@ recent_num: 20
 # Social account
 #twitter: suyan404
 #weibo: suyan0830
-github: 766
+#github: 766
 #instagram: suyan404
 #linkedin: suyan404
 
@@ -27,7 +27,7 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: infinity
+  shortname: aotuman
 
 # google analytics config
 ga:
